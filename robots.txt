@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-a1fyfs.mhd.org.uk/sitemap.xml
